@@ -1,3 +1,7 @@
-@import 'utilities/index.scss',
-        'base/index.scss',
-        'component/index.scss';
+/* ============================================= */
+/* Sub-Folder Imports */
+/* ============================================= */
+
+@import 'utilities/index';
+@import 'base/index';
+@import 'components/index';
